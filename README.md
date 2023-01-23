@@ -4,4 +4,4 @@ allo
 ## Titre 2: travail en equipe
 oui
 T-T
-<img src="./image.jpg" alt="bébé chien trop cute">
+<img src="./image.jpeg" alt="bébé chien trop cute">
